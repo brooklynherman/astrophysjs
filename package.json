@@ -1,0 +1,17 @@
+{
+  "name": "astrophysics",
+  "version": "1.0.0",
+  "description": "A package with astrophysics formulae and constants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "astrophysics",
+    "astronomy",
+    "physics",
+    "science"
+  ],
+  "author": "Brooklyn Tanner",
+  "license": "ISC"
+}
